@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 阿仟的小世界</title>
+    <link>https://ccl0606.github.io/tags/notes/</link>
+    <description>Recent content in Notes on 阿仟的小世界</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 14 Jul 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ccl0606.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>仟的致富人生</title>
+      <link>https://ccl0606.github.io/blog/post-1/</link>
+      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
+      <guid>https://ccl0606.github.io/blog/post-1/</guid>
+      <description> 投資學習筆記 思維練習 原子習慣&#xA;習慣致富&#xA;黑馬思維&#xA;金錢超思考&#xA;我的職業是股東&#xA;未完成書單 塔木德 投資最重要的事 巴菲特給股東的信 窮查理的普通常識 智慧型投資人 Unordered List List item List item List item List item List item </description>
+    </item>
+    <item>
+      <title>仟的德文小天地</title>
+      <link>https://ccl0606.github.io/blog/post-2/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ccl0606.github.io/blog/post-2/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    <item>
+      <title>仟的日文小菜園</title>
+      <link>https://ccl0606.github.io/blog/post-3/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ccl0606.github.io/blog/post-3/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+  </channel>
+</rss>

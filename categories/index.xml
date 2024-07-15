@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 阿仟的小世界</title>
+    <link>https://ccl0606.github.io/categories/</link>
+    <description>Recent content in Categories on 阿仟的小世界</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 14 Jul 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ccl0606.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investment</title>
+      <link>https://ccl0606.github.io/categories/investment/</link>
+      <pubDate>Sun, 14 Jul 2024 10:07:47 +0800</pubDate>
+      <guid>https://ccl0606.github.io/categories/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go Language</title>
+      <link>https://ccl0606.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ccl0606.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

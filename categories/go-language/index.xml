@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on 阿仟的小世界</title>
+    <link>https://ccl0606.github.io/categories/go-language/</link>
+    <description>Recent content in Go Language on 阿仟的小世界</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://ccl0606.github.io/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>仟的德文小天地</title>
+      <link>https://ccl0606.github.io/blog/post-2/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ccl0606.github.io/blog/post-2/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    <item>
+      <title>仟的日文小菜園</title>
+      <link>https://ccl0606.github.io/blog/post-3/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ccl0606.github.io/blog/post-3/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+  </channel>
+</rss>
