@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ccl0606.github.io/categories/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/categories/go-language/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/tags/language/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/tags/learning/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/tags/notes/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/tags/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/blog/post-2/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://ccl0606.github.io/</loc>
+    <lastmod>2024-07-20T10:07:47+08:00</lastmod>
+  </url><url>
     <loc>https://ccl0606.github.io/about/</loc>
     <lastmod>2024-07-14T13:49:23+08:00</lastmod>
   </url><url>
-    <loc>https://ccl0606.github.io/</loc>
-    <lastmod>2024-07-14T13:49:23+08:00</lastmod>
-  </url><url>
     <loc>https://ccl0606.github.io/tags/book/</loc>
-    <lastmod>2024-07-14T10:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/categories/</loc>
     <lastmod>2024-07-14T10:07:47+08:00</lastmod>
   </url><url>
     <loc>https://ccl0606.github.io/tags/invest/</loc>
     <lastmod>2024-07-14T10:07:47+08:00</lastmod>
   </url><url>
     <loc>https://ccl0606.github.io/categories/investment/</loc>
-    <lastmod>2024-07-14T10:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/tags/notes/</loc>
-    <lastmod>2024-07-14T10:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/tags/</loc>
     <lastmod>2024-07-14T10:07:47+08:00</lastmod>
   </url><url>
     <loc>https://ccl0606.github.io/blog/post-1/</loc>
@@ -37,18 +49,6 @@
   </url><url>
     <loc>https://ccl0606.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/tags/language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/tags/learning/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://ccl0606.github.io/blog/post-2/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://ccl0606.github.io/blog/post-3/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
